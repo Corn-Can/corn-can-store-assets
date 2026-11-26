@@ -278,7 +278,7 @@ def inventory():
         "## Notes",
         "Cost of goods sold uses the unit cost currently on Products (a simple standard-cost method). It's a tracking tool, not accounting or tax advice.",
         "## Works with",
-        "Microsoft Excel 2019 / Microsoft 365 (Windows/Mac), Google Sheets (File → Import) and LibreOffice Calc. No macros. (Top sellers use LARGE/INDEX formulas that work in all three.)",
+        "Microsoft Excel 2010 or later (Windows/Mac), Google Sheets (File → Import) and LibreOffice Calc. No macros.",
         "Made by Corn_Can. For personal and business use; please don't resell the file.",
     ])
 
